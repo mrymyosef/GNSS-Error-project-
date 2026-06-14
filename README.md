@@ -8,9 +8,13 @@ Objective: Ensure the dataset was reliable before analysis.
 Tasks Performed
 
 ✔ Checked for missing values
+
 ✔ Validated data types
+
 ✔ Converted the Date column to datetime
+
 ✔ Created new features:
+
 Month
 Season
 
